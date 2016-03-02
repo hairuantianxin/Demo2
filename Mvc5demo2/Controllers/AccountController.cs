@@ -20,6 +20,7 @@ namespace Mvc5demo2.Controllers
 
         public AccountController()
         {
+            //田鑫修改
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
